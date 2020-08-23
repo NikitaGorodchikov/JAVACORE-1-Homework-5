@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Homework 5.iml" filepath="$PROJECT_DIR$/.idea/Homework 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework5.1/Homework5.1.iml" filepath="$PROJECT_DIR$/Homework5.1/Homework5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework5.1/api/api.iml" filepath="$PROJECT_DIR$/Homework5.1/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework5.2/api/api (1).iml" filepath="$PROJECT_DIR$/Homework5.2/api/api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework5.1/db/db.iml" filepath="$PROJECT_DIR$/Homework5.1/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework5.2/db/db (1).iml" filepath="$PROJECT_DIR$/Homework5.2/db/db (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework5.1/service/service.iml" filepath="$PROJECT_DIR$/Homework5.1/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework5.2/service/service (1).iml" filepath="$PROJECT_DIR$/Homework5.2/service/service (1).iml" />
+    </modules>
+  </component>
+</project>
