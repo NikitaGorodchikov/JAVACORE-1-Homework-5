@@ -1,0 +1,6 @@
+rootProject.name = 'Homework5.2'
+
+include 'db'
+include 'service'
+include 'api'
+
